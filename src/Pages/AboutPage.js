@@ -1,5 +1,4 @@
 import { Link } from "react-scroll"
-
 export default function(){
     return(
 
@@ -7,28 +6,26 @@ export default function(){
             <div id="AboutMe">
                 <div className="intro">
                     <h2>ABOUT ME</h2>
-                    <p>Here you will find more information about me, what I do, and my current skills
-                    mostly in terms of programming and technology</p>
+                    <p>"Explore additional details about myself, my activities, and my existing expertise,
+                     primarily centered around programming and technology."</p>
                 </div>
 
                 <div className="extras">
                     <div className="knowMore">
                         <h3>Get to Know More!🚀</h3>
                         <p>
-                            I'm a Frontend Web Developer building the Front-end of Websites and Web Applications 
-                            that leads to the success of the overall product. Check out some of my work in the Projects section.</p>
+                        "I work as a Full-stack Web Developer, specializing in crafting  websites and web
+                         applications, contributing to the overall success of each project. Take a look at some of my showcased 
+                         projects in the dedicated section</p>
+                       
                         <p>
-                            I also like sharing content related to the stuff that I have learned over the years in Web Development 
-                            so it can help other people of the Dev Community.
-                        </p>
-                        <p>
-                            Feel free to Connect or Follow me on
-                             my <b><a href="https://www.linkedin.com/in/dheeraj-kp-15drj2000/">Linkedin</a></b> & <b><a href="https://twitter.com/iamDHEERAJKP">Twitter</a></b> where 
-                            I post useful content related to Web Development and Programming
+                        Connect with me on <b><a href="https://www.linkedin.com/in/dheeraj-kp-15drj2000/">Linkedin</a></b> & <b><a href="https://twitter.com/iamDHEERAJKP">Twitter</a></b>, where I regularly share 
+                        valuable content on web development and programming.
+                           
                         </p>
                         <p>    
-                            I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that 
-                            matches my skills and experience then don't hesitate to contact me.
+                        I am actively seeking new job opportunities that align with my skills and expertise. If you have a fitting opportunity 
+                        that encourages contribution, learning, and growth, feel free to reach out to me."
                         </p>
 
                         <button> <Link  to='contact-sec' smooth={true} offset={-10} duration={1000} ><h4>CONTACT</h4> </Link></button>
@@ -46,12 +43,13 @@ export default function(){
                         <button className="skillsBtn"><h4>Express</h4></button>
                         <button className="skillsBtn"><h4>MongoDB</h4></button>
                         <button className="skillsBtn"><h4>Responsive Design</h4></button>
-                        <button className="skillsBtn"><h4>Terminal</h4></button>
+                        <button className="skillsBtn"><h4>Bash</h4></button>
                         </div>
                         
 
                     </div>
                 </div>
+                
             </div>
         </>
 

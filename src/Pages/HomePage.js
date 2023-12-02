@@ -14,9 +14,9 @@ export default function(){
                 <img  src={image1} alt="svg" />
                 <div className="homeIntro">
                     <h1>HELLO THERE, I'M DHEERAJ</h1>
-                    <p>A Frontend focused Web Developer building the Frontend
-                    of Websites and Web Applications
-                    that leads to the success of the overall product
+                    <p>A Web Developer specializing in both Frontend & backend development, 
+                    constructing the user interface of websites and web applications 
+                    to contribute to the overall success of the product.
                     </p>
                     <button> <ScrollLink  to='project-sec' smooth={true} offset={-10} duration={1000} ><h4>PROJECT</h4> </ScrollLink></button>
                     <RouterLink to="/resume"><button className='projects-btn'><h4>RESUME</h4></button></RouterLink>

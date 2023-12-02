@@ -4,9 +4,7 @@ export default function(){
             <div className="intro">
                 <h2>PROJECTS</h2>
                 <p>
-                    Here you will find some of the personal and clients projects 
-                    that I created with each project containing its own case 
-                    study
+                "Explore a collection of both personal and client projects, each accompanied by its own detailed case study."
                 </p>
             </div>
 
@@ -18,10 +16,8 @@ export default function(){
                     
                         <h3>Vote Chain</h3>
 
-                        <p>Vote Chain is a voting system that uses BlockChain Technology 
-                        that our team built. the main motive to the project is 
-                        to reduce the malpractices that takes places while casting 
-                        or counting the votes.</p>
+                        <p>"Vote Chain is an innovative voting system developed by our team, utilizing Blockchain Technology.
+                         The primary objective of this project is to mitigate malpractices commonly observed during the casting and counting of votes."</p>
 
                         <button ><h4>Read More</h4></button>
                         
@@ -34,10 +30,10 @@ export default function(){
                     
                         <h3>TECH-HUB</h3>
 
-                        <p>Vote Chain is a voting system that uses BlockChain Technology 
-                        that our team built. the main motive to the project is 
-                        to reduce the malpractices that takes places while casting 
-                        or counting the votes.</p>
+                        <p>"Tech-Hub is a dynamic blog post website meticulously crafted by our team. This platform serves as a comprehensive tech resource hub,
+                         aiming to provide valuable insights, trends, and updates in the ever-evolving technology landscape. Our commitment lies in
+                         creating a space that fosters knowledge-sharing and community engagement within the tech enthusiasts' sphere."
+                         </p>
 
                         <button ><h4>Read More</h4></button>
                         
@@ -50,10 +46,11 @@ export default function(){
                     
                         <h3>FLIX-DB</h3>
 
-                        <p>Vote Chain is a voting system that uses BlockChain Technology 
-                        that our team built. the main motive to the project is 
-                        to reduce the malpractices that takes places while casting 
-                        or counting the votes.</p>
+                        <p>"Flix-DB is a cutting-edge platform inspired by the likes of IMDB, It offers insights into a vast array of movies and shows,
+                         catering to avid entertainment enthusiasts. Our mission
+                          is to provide a user-friendly interface that delivers in-depth information, reviews, and recommendations, elevating the 
+                          user's experience in the world of cinematic exploration."
+                        </p>
 
                         <button ><h4>Read More</h4></button>
                         

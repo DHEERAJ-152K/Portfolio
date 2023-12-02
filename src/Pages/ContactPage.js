@@ -3,9 +3,9 @@ export default function(){
         <div id='contact-sec'>
             <div className='intro'>
                 <h2>CONTACT</h2>
-                <p>Feel free to Contact me by submitting the form below 
-                    and I will get back to you as soon as possible, or reach out to any of my social 
-                    media.
+                <p>"Don't hesitate to get in touch by completing
+                 the form below. I'll respond as promptly as possible. Alternatively, feel free
+                  to connect with me through any of my social media channels."
                 </p>
             </div>
 

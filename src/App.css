@@ -49,10 +49,7 @@ textarea{
   padding: 20px;
   font-size: 20px;
 }
-iframe{
-  transform: translate(120px,50px);
-  
-}
+
 
 #Navigation{
   width: 100%;
@@ -101,6 +98,7 @@ iframe{
 #AboutMe{
   padding: 50px;
 }
+
 .extras{
   display: flex;
   justify-content: space-between;
@@ -199,4 +197,12 @@ iframe{
 
 .footer-sec p{
   font-size: 15px;
+}
+
+.Resume-sec{
+  display: grid;
+  place-content: center;
+}
+.resumeHeader{
+  padding-top: 50px;
 }
